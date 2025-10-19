@@ -13,7 +13,7 @@
 
 ### Download⚡
 
-<p>I'll add it later.</p>
+<a href="https://github.com/otenkigirlexe/KanonMovingReactor/archive/refs/tags/v1.0.0.zip">KanonMovingReactor</a>
 
 ### How to use🤗
 
