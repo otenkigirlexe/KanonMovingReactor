@@ -24,7 +24,7 @@
 ### Regarding images📸
 
 <p>I'm using images downloaded from the following sites and others.</p>
-<p><a href="(https://llsif.gamedbs.jp/)">ラブライブ！スクフェス カードDB</a></p>
+<p><a href="https://llsif.gamedbs.jp/">ラブライブ！スクフェス カードDB</a></p>
 <p>To the creator or copyright holder of the above site and others: If you have any concerns, please contact us. We will remove it immediately.</p>
 
 ### Contact📧
